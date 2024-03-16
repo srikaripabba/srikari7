@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/srikari7/static/css/main.2666721d.css",
+    "main.js": "/srikari7/static/js/main.1811d529.js",
+    "static/js/453.759a809a.chunk.js": "/srikari7/static/js/453.759a809a.chunk.js",
+    "index.html": "/srikari7/index.html",
+    "main.2666721d.css.map": "/srikari7/static/css/main.2666721d.css.map",
+    "main.1811d529.js.map": "/srikari7/static/js/main.1811d529.js.map",
+    "453.759a809a.chunk.js.map": "/srikari7/static/js/453.759a809a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2666721d.css",
+    "static/js/main.1811d529.js"
+  ]
+}
